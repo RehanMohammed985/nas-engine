@@ -1,6 +1,3 @@
-# nas-engine
-Neural Architecture Search Engine using Reinforcement Learning and Evolutionary Algorithms
-
 # Neural Architecture Search Engine
 
 An automated system for discovering optimal neural network architectures using Reinforcement Learning and Evolutionary Algorithms. Built to drastically reduce manual model design and hyperparameter tuning.
